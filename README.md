@@ -31,10 +31,10 @@
     <img src="images/logo.png" alt="Logo" width="120" height="120">
   </a>
 
-  <h3 align="center"> 𝙳 𝙰 _ 𝚃 𝙴 𝙰 𝙼 𝟽 </h3>
+  <h3 align="center">ıllıllı 𝙳 𝙰 _ 𝚃 𝙴 𝙰 𝙼 𝟽 ıllıllı</h3>
 
   <p align="center">
-    𝕄𝕖𝕞𝕓𝕖𝕣𝕤: 𝓗𝓪𝓷𝓲𝓯, 𝓢𝓱𝓾𝓴𝓻𝓮𝔂, 𝓢𝓱𝓪𝔀𝓷
+    𝕄𝕖𝕞𝕓𝕖𝕣𝕤 ˃ 𝓗𝓪𝓷𝓲𝓯, 𝓢𝓱𝓾𝓴𝓻𝓮𝔂, 𝓢𝓱𝓪𝔀𝓷
     <br />
     <a href="https://github.com/waterbaboon/DA_TEAM7/tree/master/venv"><strong>𝘌𝘹𝘢𝘮𝘪𝘯𝘦 𝘰𝘶𝘳 𝘚𝘤𝘳𝘪𝘱𝘵𝘴 »</strong></a>
     <br />
@@ -54,7 +54,7 @@
   <summary>ＴＡＢＬＥ ＯＦ ＣＯＮＴＥＮＴＳ</summary>
   <ol>
     <li>
-      <a href="#about-the-project">ａｂｏｕｔ ｔｈｅ ｐｒｏｊｅｃｔ</a>
+      <a href="#about-the-project">𝔸𝕓𝕠𝕦𝕥 𝕥𝕙𝕖 ℙ𝕣𝕠𝕛𝕖𝕔𝕥</a>
       <!-- <ul>
         <li><a href="#built-with">Built With</a></li>
       </ul> -->
@@ -70,7 +70,7 @@
     <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li> -->
-    <li><a href="#contact">ｃｏｎｔａｃｔ</a></li>
+    <li><a href="#contact">ℂ𝕠𝕟𝕥𝕒𝕔𝕥</a></li>
     <!-- <li><a href="#acknowledgements">Acknowledgements</a></li> -->
   </ol>
 </details>
@@ -168,13 +168,13 @@ To get a local copy up and running follow these simple example steps.
 <!-- CONTACT -->
 ## Contact
 
-**Hanif** › [water baboon#6846](https://steamcommunity.com/id/shrek69/)
+**Hanif** ˃ [water baboon#6846](https://steamcommunity.com/id/shrek69/)
 
-**Shukrey** › [zeeko#8541](https://www.youtube.com/channel/UCDAXusYwRJpiSP2CHnXnVnw)
+**Shukrey** ˃ [zeeko#8541](https://www.youtube.com/channel/UCDAXusYwRJpiSP2CHnXnVnw)
 
-**Shawn** › [Ace Action#0591](https://steamcommunity.com/profiles/76561198083103198/)
+**Shawn** ˃ [Ace Action#0591](https://steamcommunity.com/profiles/76561198083103198/)
 
-**Project Link** › [DA_TEAM7](https://github.com/waterbaboon/DA_TEAM7)
+**Project Link** ˃ [DA_TEAM7](https://github.com/waterbaboon/DA_TEAM7)
 
 
 
