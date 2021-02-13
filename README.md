@@ -39,11 +39,11 @@
     <a href="https://github.com/waterbaboon/DA_TEAM7/tree/master/venv"><strong>Examine our Scripts »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/waterbaboon/DA_TEAM7">View Files</a>
+    <a href="https://github.com/waterbaboon/DA_TEAM7">𝗩𝗶𝗲𝘄 𝗙𝗶𝗹𝗲𝘀</a>
     ·
-    <a href="https://github.com/waterbaboon/DA_TEAM7/issues">Report Bugs</a>
+    <a href="https://github.com/waterbaboon/DA_TEAM7/issues">𝗥𝗲𝗽𝗼𝗿𝘁 𝗕𝘂𝗴𝘀</a>
     ·
-    <a href="https://github.com/waterbaboon/DA_TEAM7/issues">Request Features</a>
+    <a href="https://github.com/waterbaboon/DA_TEAM7/issues">𝗥𝗲𝗾𝘂𝗲𝘀𝘁 𝗙𝗲𝗮𝘁𝘂𝗿𝗲𝘀</a>
   </p>
 </p>
 
