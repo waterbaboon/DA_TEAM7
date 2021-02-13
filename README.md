@@ -36,10 +36,10 @@
   <p align="center">
     Members: Hanif, Shukrey, Shawn
     <br />
-    <a href="https://github.com/waterbaboon/DA_TEAM7"><strong>Explore the Docs »</strong></a>
+    <a href="https://github.com/waterbaboon/DA_TEAM7/tree/master/venv"><strong>Examine our Scripts »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/waterbaboon/DA_TEAM7">View Demo</a>
+    <a href="https://github.com/waterbaboon/DA_TEAM7">View Files</a>
     ·
     <a href="https://github.com/waterbaboon/DA_TEAM7/issues">Report Bug</a>
     ·
