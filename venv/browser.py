@@ -1,28 +1,30 @@
 # First HTTP Server
 import socket
-
-# HTTP Request
-def handle_request(request):
-    """Handles the HTTP request."""
-
-    headers = request.split('\n')
-    filename = headers[0].split()[1]
-    if filename == '/':
-        filename = '/index.html'
-
-    try:
-        fin = open('venv' + filename)
-        content = fin.read()
-        fin.close()
-
-        response = 'HTTP/1.0 200 OK\n\nHello!' + content
-    except FileNotFoundError:
-        response = 'HTTP/1.0 404 NOT FOUND\n\nFile Not Found..'
-
-    return response
+import http.server
+import socketserver
 
 # Define the host as a tuple
 HOST, PORT = "", 6969
+
+handler = http.server.SimpleHTTPRequestHandler
+
+with socketserver.TCPServer(("", PORT), handler) as httpd:
+    print("Server started at localhost:" + str(PORT))
+    httpd.serve_forever()
+
+class MyHttpRequestHandler(http.server.SimpleHTTPRequestHandler):
+    def do_GET(self):
+        if self.path == '/':
+            self.path = 'index.html'
+        return http.server.SimpleHTTPRequestHandler.do_GET(self)
+
+# Create an object of the above class
+handler_object = MyHttpRequestHandler
+
+my_server = socketserver.TCPServer(("", PORT), handler_object)
+
+# Star the server
+my_server.serve_forever()
 
 s = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
 s.setsockopt(socket.SOL_SOCKET, socket.SO_REUSEADDR,1)
@@ -32,15 +34,12 @@ s.listen(True)
 print("Serving HTTP on port %s..." %PORT)
 
 while True:
-    client_connection, client_address = s.accept() # Wait for client connections
+    conn, addr = s.accept()
+    rqst = conn.recv(1024) # Buffer Size
+    print(rqst.decode("utf-8")) # Display the HTTP request
+    # Define the Web response message
+    resp = 'HTTP/1.0 200 OK\n\nChing Chong Hon Chi'
+    conn.sendall(bytes(resp, "utf-8"))
+    conn.close()
 
-    request = client_connection.recv(1024).decode("utf-8") # Get client request, Buffer Size
-    print(request) # Display the HTTP request
-
-    response = handle_request(request)
-    client_connection.sendall(response.encode())
-
-    # client_connection.sendall(bytes(response.encode(),"utf-8"))
-    client_connection.close()
-
-s.close() # Close socket
+s.close() # Closes socket

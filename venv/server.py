@@ -26,7 +26,7 @@ print("**********")
 
 # This will modify the headers user-agent
 headers = {
-    'User-Agent' : 'iPhone 8'
+    'User-Agent' : 'Mobile'
 }
 
 # Test it on an external site
