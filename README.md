@@ -86,7 +86,7 @@ and make sure to paragraph after sentences for foramtting reasons -->
 
 This is our project for ASP
 
-__Enjoy!__
+***Enjoy!***
 
 <!-- ### Built With
 
@@ -168,13 +168,13 @@ To get a local copy up and running follow these simple example steps.
 <!-- CONTACT -->
 ## Contact
 
-Hanif › [water baboon#6846](https://steamcommunity.com/id/shrek69/)
+**Hanif** › [water baboon#6846](https://steamcommunity.com/id/shrek69/)
 
-Shukrey › [zeeko#8541](https://www.youtube.com/channel/UCDAXusYwRJpiSP2CHnXnVnw)
+**Shukrey** › [zeeko#8541](https://www.youtube.com/channel/UCDAXusYwRJpiSP2CHnXnVnw)
 
-Shawn › [Ace Action#0591](https://steamcommunity.com/profiles/76561198083103198/)
+**Shawn** › [Ace Action#0591](https://steamcommunity.com/profiles/76561198083103198/)
 
-Project Link: [DA_TEAM7](https://github.com/waterbaboon/DA_TEAM7)
+**Project Link**⦂ [DA_TEAM7](https://github.com/waterbaboon/DA_TEAM7)
 
 
 
