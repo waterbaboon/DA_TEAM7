@@ -174,7 +174,7 @@ To get a local copy up and running follow these simple example steps.
 
 **Shawn** › [Ace Action#0591](https://steamcommunity.com/profiles/76561198083103198/)
 
-**Project Link**꞉ [DA_TEAM7](https://github.com/waterbaboon/DA_TEAM7)
+**Project Link** › [DA_TEAM7](https://github.com/waterbaboon/DA_TEAM7)
 
 
 
