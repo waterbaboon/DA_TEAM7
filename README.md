@@ -34,7 +34,7 @@
   <h3 align="center">DA_TEAM7</h3>
 
   <p align="center">
-    Members: Hanif, Shukrey, Shawn
+    𝕄𝕖𝕞𝕓𝕖𝕣𝕤: 𝓗𝓪𝓷𝓲𝓯, 𝓢𝓱𝓾𝓴𝓻𝓮𝔂, 𝓢𝓱𝓪𝔀𝓷
     <br />
     <a href="https://github.com/waterbaboon/DA_TEAM7/tree/master/venv"><strong>Examine our Scripts »</strong></a>
     <br />
@@ -86,7 +86,7 @@ and make sure to paragraph after sentences for foramtting reasons -->
 
 This is our project for ASP
 
-***Enjoy!***
+***E̶̦̓̍n̷̢̢̛̥̟̬̰̲̏̽̈́͊͒̅̏̋ͅj̴̧̛̰͔̱̺͔͍̐̓͊̇̽̓̽͌͝ö̸̯͗̋̀̔͊͝y̶͙͙̦͓̞̞̓͜!̶̞͇̬̜̱̀̑͐̓̐͒̍̇̚̚***
 
 <!-- ### Built With
 
