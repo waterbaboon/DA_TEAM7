@@ -10,10 +10,6 @@ s.bind((HOST,PORT))
 s.listen(True)
 
 print("Serving HTTP on port %s..." %PORT)
-<<<<<<< HEAD
-=======
-print("Hello")
->>>>>>> 587cfe7 (Initial commit)
 
 while True:
     client_connection, client_address = s.accept()
