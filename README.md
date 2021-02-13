@@ -168,13 +168,13 @@ To get a local copy up and running follow these simple example steps.
 <!-- CONTACT -->
 ## Contact
 
-**Hanif** ˃ [water baboon#6846](https://steamcommunity.com/id/shrek69/)
+**Hanif** ˃ [𝘄𝗮𝘁𝗲𝗿 𝗯𝗮𝗯𝗼𝗼𝗻#𝟲𝟴𝟰𝟲](https://steamcommunity.com/id/shrek69/)
 
-**Shukrey** ˃ [zeeko#8541](https://www.youtube.com/channel/UCDAXusYwRJpiSP2CHnXnVnw)
+**Shukrey** ˃ [𝘇𝗲𝗲𝗸𝗼#𝟴𝟱𝟰𝟭](https://www.youtube.com/channel/UCDAXusYwRJpiSP2CHnXnVnw)
 
-**Shawn** ˃ [Ace Action#0591](https://steamcommunity.com/profiles/76561198083103198/)
+**Shawn** ˃ [𝗔𝗰𝗲 𝗔𝗰𝘁𝗶𝗼𝗻#𝟬𝟱𝟵𝟭](https://steamcommunity.com/profiles/76561198083103198/)
 
-**Project Link** ˃ [DA_TEAM7](https://github.com/waterbaboon/DA_TEAM7)
+**Project Link** ˃ [𝗗𝗔_𝗧𝗘𝗔𝗠𝟳](https://github.com/waterbaboon/DA_TEAM7)
 
 
 
