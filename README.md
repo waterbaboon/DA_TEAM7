@@ -41,9 +41,9 @@
     <br />
     <a href="https://github.com/waterbaboon/DA_TEAM7">View Files</a>
     ·
-    <a href="https://github.com/waterbaboon/DA_TEAM7/issues">Report Bug</a>
+    <a href="https://github.com/waterbaboon/DA_TEAM7/issues">Report Bugs</a>
     ·
-    <a href="https://github.com/waterbaboon/DA_TEAM7/issues">Request Feature</a>
+    <a href="https://github.com/waterbaboon/DA_TEAM7/issues">Request Features</a>
   </p>
 </p>
 
