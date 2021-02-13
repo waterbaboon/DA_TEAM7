@@ -31,7 +31,7 @@
     <img src="images/logo.png" alt="Logo" width="120" height="120">
   </a>
 
-  <h3 align="center">DA_TEAM7</h3>
+  <h3 align="center"> 𝙳 𝙰 _ 𝚃 𝙴 𝙰 𝙼 𝟽 </h3>
 
   <p align="center">
     𝕄𝕖𝕞𝕓𝕖𝕣𝕤: 𝓗𝓪𝓷𝓲𝓯, 𝓢𝓱𝓾𝓴𝓻𝓮𝔂, 𝓢𝓱𝓪𝔀𝓷
