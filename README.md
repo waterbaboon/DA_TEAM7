@@ -36,7 +36,7 @@
   <p align="center">
     𝕄𝕖𝕞𝕓𝕖𝕣𝕤: 𝓗𝓪𝓷𝓲𝓯, 𝓢𝓱𝓾𝓴𝓻𝓮𝔂, 𝓢𝓱𝓪𝔀𝓷
     <br />
-    <a href="https://github.com/waterbaboon/DA_TEAM7/tree/master/venv"><strong>Examine our Scripts »</strong></a>
+    <a href="https://github.com/waterbaboon/DA_TEAM7/tree/master/venv"><strong>𝘌𝘹𝘢𝘮𝘪𝘯𝘦 𝘰𝘶𝘳 𝘚𝘤𝘳𝘪𝘱𝘵𝘴 »</strong></a>
     <br />
     <br />
     <a href="https://github.com/waterbaboon/DA_TEAM7">𝗩𝗶𝗲𝘄 𝗙𝗶𝗹𝗲𝘀</a>
