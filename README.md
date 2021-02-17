@@ -210,4 +210,4 @@ To get a local copy up and running follow these simple example steps.
 [license-url]: https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [myconnexion-url]: https://myconnexion.ite.edu.sg/ -->
-[product-screenshot]: images/screenshot.jpg
+[product-screenshot]: scrapyproject/venv/images/screenshot.jpg
