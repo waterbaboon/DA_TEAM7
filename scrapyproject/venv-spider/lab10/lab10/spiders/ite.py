@@ -6,7 +6,7 @@ class IteSpider(scrapy.Spider):
     allowed_domains = ['www.ite.edu.sg']
     start_urls = ['http://www.ite.edu.sg/']
 
-    def parse(self, response):
+    def parse(self, response, **kwargs):
         css_selector = 'img'
         for x in response.css(css_selector):
             news = '@src'
