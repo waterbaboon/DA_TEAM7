@@ -1,12 +1,10 @@
-from abc import ABC
-
 import scrapy
 
 
-class URLSpider(scrapy.Spider, ABC):
-    name = 'url_spider'
-#    allowed_domains = ['www.ite.edu.sg']
-    start_urls = ['http://www.twitter.com']
+class IteSpider(scrapy.Spider):
+    name = 'ite'
+    allowed_domains = ['www.ite.edu.sg']
+    start_urls = ['http://www.ite.edu.sg/']
 
     def parse(self, response, **kwargs):
         css_selector = 'img'
