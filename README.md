@@ -28,7 +28,7 @@
 <br />
 <p align="center">
   <a href="https://twitch.tv/Jerma985">
-    <img src="scrapyproject/venv/images/logo.png" alt="LOGO" width="120" height="120">
+    <img src="scrapyproject/venv/images/tom.gif" alt="LOGO" width="120" height="120">
   </a>
 
   <h3 align="center">ıllıllı 𝙳 𝙰 _ 𝚃 𝙴 𝙰 𝙼 𝟽 ıllıllı</h3>
