@@ -87,5 +87,5 @@ ROBOTSTXT_OBEY = True
 #  HTTPCACHE_STORAGE = 'scrapy.extensions.httpcache.FilesystemCacheStorage'
 
 # Save file
-FEED_FORMAT = 'json'
-FEED_URL = 'crawl_url.json'
+# FEED_FORMAT = 'json'
+# FEED_URL = 'crawl_url.json'
