@@ -5,5 +5,5 @@ PORT = 6969
 Handler = http.server.SimpleHTTPRequestHandler
 
 with socketserver.TCPServer(("", PORT), Handler) as http:
-    print("serving at port", PORT)
+    print("Hosting via Port:", PORT)
     http.serve_forever()
